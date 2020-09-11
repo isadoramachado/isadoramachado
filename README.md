@@ -1,11 +1,14 @@
-### Hi there 👋
+### Olá, eu sou Isadora Machado! 👋
 
+<p> :heart: Sou apaixonada por tecnologia, co-fundadora de uma plataforma inclusiva e agora estou estudando programação em front-end pela Womakerscode!</p>
+<p> :trophy: No momento, aprendendo HTML e CSS. </p>
+<p> Seja bem vindes!
 <!--
 **isadoramachado/isadoramachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
